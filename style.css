@@ -1,0 +1,21 @@
+body {
+  font-family: Calibri, sans-serif;
+  padding: 1em 3em;
+}
+
+h1 {
+  color: rgb(161,0,0);
+}
+
+ol{
+  padding-left: 1.8em
+}
+
+ul{
+  padding-left: 1.5em;
+}
+
+p.greybox {
+  background-color: rgb(235,235,235);
+  padding: 1em 1em;
+}
